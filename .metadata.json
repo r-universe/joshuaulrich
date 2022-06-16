@@ -1,0 +1,18 @@
+[
+  {
+    "package": "microbenchmark",
+    "oncran": true
+  },
+  {
+    "package": "quantmod",
+    "oncran": true
+  },
+  {
+    "package": "TTR",
+    "oncran": true
+  },
+  {
+    "package": "xts",
+    "oncran": true
+  }
+]
