@@ -1,6 +1,14 @@
 [
   {
+    "package": "IBrokers",
+    "oncran": true
+  },
+  {
     "package": "microbenchmark",
+    "oncran": true
+  },
+  {
+    "package": "pack",
     "oncran": true
   },
   {
