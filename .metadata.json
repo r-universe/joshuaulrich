@@ -1,6 +1,10 @@
 [
   {
-    "package": "microbenchmark",
+    "package": "TTR",
+    "oncran": true
+  },
+  {
+    "package": "xts",
     "oncran": true
   },
   {
@@ -8,11 +12,7 @@
     "oncran": true
   },
   {
-    "package": "TTR",
-    "oncran": true
-  },
-  {
-    "package": "xts",
+    "package": "microbenchmark",
     "oncran": true
   }
 ]
