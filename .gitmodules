@@ -5,6 +5,9 @@
 [submodule "IBrokers"]
 	path = IBrokers
 	url = https://github.com/joshuaulrich/ibrokers
+[submodule "TTR"]
+	path = TTR
+	url = https://github.com/joshuaulrich/ttr
 [submodule "microbenchmark"]
 	path = microbenchmark
 	url = https://github.com/joshuaulrich/microbenchmark
@@ -14,9 +17,6 @@
 [submodule "quantmod"]
 	path = quantmod
 	url = https://github.com/joshuaulrich/quantmod
-[submodule "TTR"]
-	path = TTR
-	url = https://github.com/joshuaulrich/ttr
 [submodule "xts"]
 	path = xts
 	url = https://github.com/joshuaulrich/xts
